@@ -1,0 +1,48 @@
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :18 - House construction with Standard material is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :19 - 240000.0
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :20 - No warnings in calculating the standard matrial house construction cost
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :21 - No errors in calculating the standard matrial house construction cost
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :24 - House construction with Above Standard material is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :25 - 600000.0
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :26 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :27 - No errors in calculating the Above standard matrial house construction cost
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :29 - House construction with Highstandard material is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :30 - 540000.0
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :31 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :32 - No errors in calculating Highstandard matrial house construction cost
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :35 - House construction with Highstandard Fullautomatic material is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :36 - 2500000.0
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :37 - No warnings in calculating the Highstandard Fullautomatic matrial house construction cost
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :38 - No errors in calculating Highstandard Fullautomatic matrial house construction cost
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :21 - Simple interest is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :22 - 16000.0
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :23 - No warnings in Simple interest and calculated
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :24 - No errors in Simple interest and calculated
+2020-03-02 09:05:03 INFO  houseconstruction.IntrestTesting :29 - Compound interest is calculated
+2020-03-02 09:05:03 DEBUG houseconstruction.IntrestTesting :30 - 4125025.034248829
+2020-03-02 09:05:03 WARN  houseconstruction.IntrestTesting :31 - No warnings in Compound interest and calculated
+2020-03-02 09:05:03 ERROR houseconstruction.IntrestTesting :32 - No errors in Compound interest and calculated
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :18 - House construction with Standard material is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :19 - 240000.0
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :20 - No warnings in calculating the standard matrial house construction cost
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :21 - No errors in calculating the standard matrial house construction cost
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :24 - House construction with Above Standard material is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :25 - 600000.0
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :26 - No warnings in calculating the Above standard matrial house construction cost
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :27 - No errors in calculating the Above standard matrial house construction cost
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :29 - House construction with Highstandard material is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :30 - 540000.0
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :31 - No warnings in calculating the Highstandard matrial house construction cost
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :32 - No errors in calculating Highstandard matrial house construction cost
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :35 - House construction with Highstandard Fullautomatic material is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :36 - 2500000.0
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :37 - No warnings in calculating the Highstandard Fullautomatic matrial house construction cost
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :38 - No errors in calculating Highstandard Fullautomatic matrial house construction cost
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :21 - Simple interest is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :22 - 16000.0
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :23 - No warnings in Simple interest and calculated
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :24 - No errors in Simple interest and calculated
+2020-03-02 09:05:21 INFO  houseconstruction.IntrestTesting :29 - Compound interest is calculated
+2020-03-02 09:05:21 DEBUG houseconstruction.IntrestTesting :30 - 4125025.034248829
+2020-03-02 09:05:21 WARN  houseconstruction.IntrestTesting :31 - No warnings in Compound interest and calculated
+2020-03-02 09:05:21 ERROR houseconstruction.IntrestTesting :32 - No errors in Compound interest and calculated
